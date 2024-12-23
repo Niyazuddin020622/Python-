@@ -1,0 +1,6 @@
+# ye jo code hai output row me deta hai end lagane pe 
+
+number = int(input("Enter a number: "))
+
+for i in range(1,number+1):
+    print(i,end=" ")
